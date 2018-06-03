@@ -8,3 +8,5 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('', include('feature_request_app.urls')),
 ]
+
+# change in branch 1
